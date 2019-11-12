@@ -34,7 +34,7 @@ about:
   license_file: "LICENSE"
   summary: "RAdam implemented in Keras & TensorFlow"
   doc_url: "https://pypi.org/project/keras-radam/"
-  dev_url: "https://github.com/CyberZHG/keras-radam"
+  dev_url: "https://github.com/CyberZHG/keras-radam" 
 
 extra:
   recipe-maintainers:
