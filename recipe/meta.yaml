@@ -26,6 +26,7 @@ requirements:
 test:
   imports:
     - keras_radam
+    - tests
 
 about:
   home: "https://github.com/CyberZHG/keras-radam"
