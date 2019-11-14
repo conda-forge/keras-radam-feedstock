@@ -25,7 +25,7 @@ requirements:
     - twine >=1.11.0
     - wheel >=0.31.0
     - tensorflow
-    - torch
+    - pytorch
     - nose
     - pycodestyle
     - coverage
